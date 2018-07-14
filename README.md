@@ -1,6 +1,6 @@
-# Cordova/PhoneGap Wrapper for Paystack SDK with reference from https://github.com/tolu360/cordova-plugin-paystack
+# Cordova/PhoneGap Wrapper for Paystack SDK 
 
-for Android & iOS by [Arttitude 360](http://www.arttitude360.com)
+for Android & iOS by [Arttitude 360](http://www.arttitude360.com) with reference from https://github.com/tolu360/cordova-plugin-paystack
 
 ## Index
 
@@ -28,14 +28,14 @@ PaystackPlugin is compatible with [Cordova Plugman](https://github.com/apache/co
 
 Using the Cordova CLI and the [Cordova Plugin Registry](http://plugins.cordova.io)
 
-download directly from the repo (most especially if you run into any issues building for IOS with the command above)
+download directly from the repo may be slow.
 ```
-$ cordova plugin add https://github.com/blinks32/cordova-plugin-paystack-updated
+$ cordova plugin add https://github.com/blinks32/cordova-paystack-plugin-updated
 ```
 
 Or using the phonegap CLI
 ```
-$ phonegap local plugin add https://github.com/blinks32/cordova-plugin-paystack-updated
+$ phonegap local plugin add https://github.com/blinks32/cordova-paystack-plugin-updated
 ```
 
 PaystackPlugin.js is brought in automatically. There is no need to change or add anything in your html.
